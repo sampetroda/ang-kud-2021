@@ -1,0 +1,13 @@
+
+
+===================================part 05 template and templateurl=====================================
+
+
+We can embed inline HTML data in the .ts file.
+We could be written inline HTML data only in single quotes, double quotes, and backticks
+Only single quotes or double quotes can be implemented in single line HTML data in the .ts file.
+if want to implement multiple lines of HTML data in the .ts file, you must use backticks.
+
+TEMPLATEURL
+
+templateUrl property of the component decorator has taken the only path of the external HTML file. 
